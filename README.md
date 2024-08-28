@@ -58,6 +58,7 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 - **Sudoku Web Application**
 - **Counterfeit Product Validation Web Application**
 - **Airbnb Dataset Project:** Data science and AI focused project
+<div>MORE PLEASE VISIT MY LINKEDIN PROFILE: https://www.linkedin.com/in/enes-kilic-lnkdn/</div>
 
 ## Competencies
 
