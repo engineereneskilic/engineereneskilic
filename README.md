@@ -36,7 +36,7 @@ I started the web and software world at the age of 17, during my high school edu
 While I was in my senior year of high school, I worked as a long-term IT intern at Turkish Airlines Flight Training Presidency. I developed modules for the monitoring and management of pilot candidates' training. This experience gave me an important step in the software world.
 
 ### HCT Bilişim - Full Stack Developer
-During my time at HCT Bilişim, I developed web-based CRM applications. Using PHP, PHP CORE/MVC, Ajax, jQuery, Javascript, Bootstrap technologies, I developed reporting and analysis modules on databases containing more than 200 tables.
+During my time at HCT Bilişim, I developed web-based CRM applications. Using PHP, PHP CORE/MVC, ASP.NET Core, Ajax, jQuery, Javascript, Bootstrap technologies, I developed reporting and analysis modules on databases containing more than 200 tables.
 
 ### Formica AI - R&D Software Intern
 At Formica AI, I worked on artificial intelligence and deep learning for fraud detection. I performed data science operations, but I did not continue at this company because I did not enjoy working in this field very much.
