@@ -1,6 +1,6 @@
 <div align="center"><a href="[https://developer.android.com](https://www.linkedin.com/in/enes-kilic-lnkdn/)" target="_blank" rel="noreferrer"> <img src="https://gcdnb.pbrd.co/images/WYWYmuX7JNg3.png?o=1" width="300" /> </a></div>
 <h1 align="center">Hi 👋, I'm ENES KILIC</h1>
-<h3 align="center">A passionate .NET Developer from Turkey</h3>
+<h3 align="center">A passionate Computer Engineer / .NET Developer from Turkey</span></h3>
 
 <p align="left">
 </p>
