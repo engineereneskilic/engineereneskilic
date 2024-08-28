@@ -18,7 +18,7 @@
 # Enes Kılıç
 
 ## About Me
-Hello! I am Enes Kılıç, a software developer who works especially on web-based applications and technologies. I am an expert in developing projects with technologies such as .NET MVC, ASP.NET Core, ASP.NET Web Forms, Angular, SQL, Web API, reporting, jQuery, Ajax, PHP, and Microsoft SQL Server. I have a special interest in .NET technologies and I want to work in this field. Please review my [LinkedIn profile](https://www.linkedin.com/in/enes-kilic-lnkdn/) to best access the information I want to give about me. I tried to prepare my profile information very concisely and well; so I would love for you to review it.
+Hello! I am Enes Kılıç, a software developer who works especially on web-based applications and technologies. I am an expert in developing projects with technologies such as ASP.NET MVC, ASP.NET Core, Angular, SQL, Web API, Reporting, jQuery, Ajax, PHP, and Microsoft SQL Server. I have a special interest in .NET technologies and I want to work in this field. Please review my [LinkedIn profile](https://www.linkedin.com/in/enes-kilic-lnkdn/) to best access the information I want to give about me. I tried to prepare my profile information very concisely and well; so I would love for you to review it.
 
 I started the web and software world at the age of 17, during my high school education, in the field of information technologies. Over time, I developed many web applications and continued to improve myself in this field.
 
