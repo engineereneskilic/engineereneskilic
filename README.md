@@ -69,8 +69,6 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 - **Data Science:** Artificial Intelligence, Machine Learning, Deep Learning
 - **Project Management:** Agile, Scrum
 - **Tools and Platforms:** Git, Visual Studio, Azure, Docker
-- **Project Management:** Agile, Scrum
-- **Tools and Platforms:** Git, Visual Studio, Azure, Docker
 - **Other:** ERP, CRM, CSM, SEO, ..
 
 ## Contact
