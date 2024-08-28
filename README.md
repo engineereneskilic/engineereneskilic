@@ -24,8 +24,7 @@ I started the web and software world at the age of 17, during my high school edu
 
 ## Education
 
-### High School
-With the education I received in the field of information technologies, I developed dynamic web-based applications starting from basic web technologies such as HTML, CSS, Bootstrap. During this period, I did many projects using PHP, ASP.NET, MySQL and Microsoft SQL Server. I completed my high school education as the top student in my department.
+- **High School:** With the education I received in the field of information technologies, I developed dynamic web-based applications starting from basic web technologies such as HTML, CSS, Bootstrap. During this period, I did many projects using PHP, ASP.NET, MySQL and Microsoft SQL Server. I completed my high school education as the top student in my department.
 
 - **Associate Degree:** Ayvansaray University, Computer Programming (Full Scholarship), 3.83 GPA, 4th in School, Top Student in Department
 - **Bachelor's Degree:** Istanbul Kültür University, Computer Engineering (%100 English)
