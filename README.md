@@ -61,7 +61,7 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 
 ## Competencies
 
-- **Programming Languages:** C#, SQl, Python, PHP, Java, Swift, JavaScript, ..
+- **Programming Languages:** C#, SQL, Python, PHP, JavaScript, Java, Swift, ..
 - **Web Technologies**
   - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Angular, ReactJS, TypeScript, jQuery, AJAX, ..
   - **Backend:** C#, ASP.NET Core, ASP.NET MVC, .NET Framework, OOP, GIT, API, Microservice, Asynchronous/Multithread Programming, Design Pattern, PHP, NodeJS, Docker, Kubernetes, RabbitMQ, Kafka, Postman, Swagger, RESTful, Identity, ElasticSearch, WebAPI
