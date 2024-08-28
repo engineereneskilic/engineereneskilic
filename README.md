@@ -61,7 +61,7 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 
 ## Competencies
 
-- **Programming Languages:** C#, PHP, JavaScript, SQL,..
+- **Programming Languages:** C#, PHP, Java, Swift, JavaScript, SQL,..
 - **Web Technologies:** .NET MVC, ASP.NET Core, Angular, jQuery, Ajax, Bootstrap,..
 - **Database Management:** Microsoft SQL Server, MySQL
 - **Data Science:** Artificial Intelligence, Machine Learning, Deep Learning
@@ -73,7 +73,7 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 - **Database and Management:** Microsoft SQL Server, MySQL, MongoDB, PostgreSQL, SQLite, Redis, ORM, Dapper, Ado.Net, Linq
 - **Project Management:** Agile, Scrum
 - **Tools and Platforms:** Git, Visual Studio, Azure, Docker
-- **Other:** Docker, Kubernetes, RabbitMQ, Kafka, Postman, Swagger, RESTful, SOAP, WebAPI, Identity, ElasticSearch, ERP, CRM, CSM, OOP, Asynchronous/Multithread Programming, Design Pattern, GIT, SEO, Data Science, Deep Learning, Machine Learning, Natural Language Processing
+- **Other:** Docker, Kubernetes, RabbitMQ, Kafka, Postman, Swagger, RESTful, SOAP, WebAPI, Identity, ElasticSearch, ERP, CRM, CSM, OOP, Asynchronous/Multithread Programming, Design Pattern, GIT, SEO
 
 ## Contact
 - **LinkedIn:** [https://www.linkedin.com/in/eneskilic-lnkdn/](https://www.linkedin.com/in/enes-kilic-lnkdn/)
