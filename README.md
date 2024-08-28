@@ -65,11 +65,10 @@ I worked as a Project Research and Development Engineer at NextBiz R&D center. I
 - **Web Technologies**
   - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Angular, ReactJS, TypeScript, jQuery, AJAX, ..
   - **Backend:** C#, ASP.NET Core, ASP.NET MVC, .NET Framework, OOP, GIT, API, Microservice, Asynchronous/Multithread Programming, Design Pattern, PHP, NodeJS, Docker, Kubernetes, RabbitMQ, Kafka, Postman, Swagger, RESTful, Identity, ElasticSearch, WebAPI
-- **Database Management:** Microsoft SQL Server, MySQL, ..
+- **Database and Management:** Microsoft SQL Server, MySQL, MongoDB, PostgreSQL, SQLite, Redis, ORM, Dapper, Ado.Net, Linq
 - **Data Science:** Artificial Intelligence, Machine Learning, Deep Learning
 - **Project Management:** Agile, Scrum
 - **Tools and Platforms:** Git, Visual Studio, Azure, Docker
-- **Database and Management:** Microsoft SQL Server, MySQL, MongoDB, PostgreSQL, SQLite, Redis, ORM, Dapper, Ado.Net, Linq
 - **Project Management:** Agile, Scrum
 - **Tools and Platforms:** Git, Visual Studio, Azure, Docker
 - **Other:** ERP, CRM, CSM, SEO, ..
