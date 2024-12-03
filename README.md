@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm ENES KILIC</h1>
 <h3 align="center">A passionate Computer Engineer / .NET Developer from Turkey</span></h3>
 
+<p align="center">💻 <strong>I’m currently working on:</strong><br>
+.Net programming</p>
+
+<p align="center">📘 <strong>I’m currently learning:</strong><br>
+C#, Javascript, ReactJS, Angular</p>
+
+
+<p align="center">✉️ <strong>How to reach me:</strong><br>
+<a href="mailto:engineer.eneskilic@gmail.com">engineer.eneskilic@gmail.com</a></p>
+
 <p align="left">
 </p>
 
